@@ -1,23 +1,26 @@
 # Color Swatch Viewer
 
-A simple and fun color palette viewer built with HTML5 and Bootstrap. It features two display modes and a custom selection of colors I personally find beautiful.
+<p>A simple and fun color palette viewer built with HTML5 and Bootstrap. It features two display modes and a custom selection of colors I personally find beautiful.</p>
 
 ## 🔍 Features
-3x3 Grid view for a quick overview
-Detail view to focus on a single color
-Toggle between views using two buttons at the top
-Clean and responsive layout using Bootstrap
-Custom palette of handpicked colors 💖
+<ul>
+  <li>3x3 Grid view for a quick overview</li>
+  <li>Detail view to focus on a single color</li>
+  <li>Toggle between views using two buttons at the top</li>
+  <li>Clean and responsive layout using Bootstrap</li>
+  <li>Custom palette of handpicked colors 💖</li>
+</ul>
 
 ## 🛠️ Technologies
-HTML5
-Bootstrap 5 
-CSS
-
-## 🚀 Live Demo
-Deployed on Vercel, you can find the link in the repository
+<ul>
+  <li>HTML5</li>
+  <li>Bootstrap 5</li>
+  <li>CSS</li>
+</ul>
 
 ## 📌 Notes
-Front-end only project
-Built as an aesthetic and layout exploration
-Palette reflects personal taste
+<ul>
+  <li>Front-end only project</li>
+  <li>Built as an aesthetic and layout exploration</li>
+  <li>Palette reflects personal taste</li>
+</ul>
